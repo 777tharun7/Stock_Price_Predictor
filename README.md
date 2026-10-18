@@ -6,7 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter- F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 </div>
 
